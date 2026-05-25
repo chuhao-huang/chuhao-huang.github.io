@@ -5,8 +5,7 @@ A static personal academic homepage based on the content from `https://sites.goo
 ## Files
 
 - `index.html` contains the page content and structure.
-- `styles.css` contains the responsive visual design.
-- `script.js` contains the mobile navigation behavior and footer year.
+- `styles.css` contains the small amount of styling used to keep the page close to a classic ENS mathematics homepage.
 
 ## Run Locally
 
