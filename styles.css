@@ -33,6 +33,19 @@ p {
   margin: 0 0 0.9em;
 }
 
+.header-content {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 2em;
+}
+
+.portrait {
+  width: 145px;
+  height: auto;
+  border: 1px solid #888;
+}
+
 a {
   color: #00e;
   text-decoration: underline;
@@ -91,5 +104,14 @@ footer {
   nav a {
     display: inline-block;
     margin-bottom: 0.35em;
+  }
+
+  .header-content {
+    display: block;
+  }
+
+  .portrait {
+    width: 130px;
+    margin: 0.2em 0 1em;
   }
 }
